@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#4CAF50" stroke="#388E3C" stroke-width="4"/>
+
+  <!-- Checkmark -->
+  <path d="M30 50l10 10 30-30" stroke="#FFF" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text -->
+  <text x="50%" y="90%" text-anchor="middle" fill="#FFF" font-family="Arial, sans-serif" font-size="12" font-weight="bold">To-Do</text>
+</svg>
