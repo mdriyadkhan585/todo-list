@@ -1,7 +1,9 @@
 # 📝 To-Do List Application
 ---
 [In Python](https://github.com/mdriyadkhan585/todo-list-python)
+
 [In Python GUI](https://github.com/mdriyadkhan585/todo-list-GUI)
+
 
 ![Logo](logo.svg)
 
